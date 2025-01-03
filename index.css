@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+body{
+    background-color: rgb(194, 228, 228) ;
+}
+.topbox{
+    width: 50%;
+    height: 50%;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    margin-left: 25%;  
+}
+button {
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid rgb(194, 228, 228);
+    color: black;
+    background-color: rgb(194, 228, 228);
+}
+button:hover{
+    background-color: rgb(92, 235, 235);
+}
+.woman:hover{
+    background-color: pink;
+}
+.box{
+    height: 20%;
+    width: 20%;
+    background-color: antiquewhite; 
+    border: 2px solid black;
+    margin-left: 39%;
+    text-align: center;
+    padding: 20px 20px 20px 20px ;
+    margin-top: 20px;
+}
+.boxes{
+    margin-top: 30px;
+    text-align: left;
+}
+#age, #height, #weight {
+    
+    padding: 10px 10px 10px 10px;
+}
+input{
+    border: 1px solid black;
+    width: 110px;
+    text-align: center;
+}
+#select{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(194, 228, 228);
+    text-align: center;
+    margin-top: 20px;
+}
+#select:hover{
+    background-color: rgb(92, 235, 235);
+}
+
+
